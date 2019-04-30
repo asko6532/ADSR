@@ -28,7 +28,7 @@ public class PerlinScript : MonoBehaviour {
        
         
 
-        Debug.Log(mesh);
+        //Debug.Log(mesh);
 		
 	}
 	

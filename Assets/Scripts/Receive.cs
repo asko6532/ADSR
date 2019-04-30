@@ -55,13 +55,13 @@ public class Receive : MonoBehaviour {
     void OnReceiveData1(OscMessage message) {
         m = message.GetFloat(0);
         //color.g = (float)m;
-        Debug.Log("received data1");
+        //Debug.Log("received data1");
     }
     
     void OnReceiveData2(OscMessage message) {
         m2 = message.GetFloat(0);
         //color.r = (float)m2;
-        Debug.Log("received data2");
+        //Debug.Log("received data2");
     }
     
     void OnReceiveData3(OscMessage message) {

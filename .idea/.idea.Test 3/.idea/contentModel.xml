@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="destroyTimer.cs" t="Include" />
+        <e p="Low Poly Modular Terrain Pack" t="Include">
+          <e p="Bonus_Assets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ModularTerrainCameraControl.cs" t="Include" />
+              <e p="ModularTerrainCloudsControl.cs" t="Include" />
+              <e p="ModularTerrainSunControl.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Low Poly Vegetation Pack" t="Include">
+          <e p="Bonus Assets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="LowPolyVegetation_CameraControl.cs" t="Include" />
+              <e p="LowPolyVegetation_CloudsControl.cs" t="Include" />
+              <e p="LowPolyVegetation_SunControl.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ColorCtrl.cs" t="Include" />
+          <e p="LightChanger.cs" t="Include" />
+          <e p="OSC.cs" t="Include" />
+          <e p="Perlin.cs" t="Include" />
+          <e p="PerlinScript.cs" t="Include" />
+          <e p="PingPong.cs" t="Include" />
+          <e p="Receive.cs" t="Include" />
+          <e p="RotChange.cs" t="Include" />
+          <e p="SizeScript.cs" t="Include" />
+          <e p="Spawn.cs" t="Include" />
+          <e p="SpawnClouds.cs" t="Include" />
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Cameras" t="Include">
+            <e p="CameraGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AbstractTargetFollower.cs" t="Include" />
+              <e p="AutoCam.cs" t="Include" />
+              <e p="HandHeldCam.cs" t="Include" />
+              <e p="LookatTarget.cs" t="Include" />
+              <e p="PivotBasedCameraRig.cs" t="Include" />
+              <e p="ProtectCameraFromWallClip.cs" t="Include" />
+              <e p="TargetFieldOfView.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Effects" t="Include">
+            <e p="GlassRefraction" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="GlassStainedBumpDistort.shader" t="Include" />
+              </e>
+            </e>
+            <e p="ImageEffects" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+            <e p="Projectors" t="Include">
+              <e p="Guidelines.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="ProjectorLight.shader" t="Include" />
+                <e p="ProjectorMultiply.shader" t="Include" />
+              </e>
+            </e>
+            <e p="TessellationShaders" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="BumpedSpecularDisplacement.shader" t="Include" />
+                <e p="BumpedSpecularSmooth.shader" t="Include" />
+              </e>
+            </e>
+            <e p="ToonShading" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="ToonBasic.shader" t="Include" />
+                <e p="ToonBasicOutline.shader" t="Include" />
+                <e p="ToonLit.shader" t="Include" />
+                <e p="ToonLitOutline.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Test 3.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Test 3.-1406985750.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -68,8 +68,8 @@ public class Spawn : MonoBehaviour {
 
         //if(rateSpawn == 0)
         
-        Debug.Log("SPAWN RATE:" + rateSpawn);
-        Debug.Log("one over SR" + 1f/rateSpawn);
+        //Debug.Log("SPAWN RATE:" + rateSpawn);
+        //Debug.Log("one over SR" + 1f/rateSpawn);
 
     }
 }
